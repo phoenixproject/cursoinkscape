@@ -19,3 +19,11 @@ Altere a propriedade alpha
 
 Altere a propriedade opacidade (opacity)
 
+##### Para alterar para Stroke to Path (Caminho para Contorno de Caminho)
+
+Ao selecionar o objeto com o Editor de Nós, ao pressionar Crtl + L,
+o número de nós é diminuido.
+
+##### Para agrupar os objetos
+
+Selecione tudo e pressione Ctrl + G
