@@ -27,3 +27,7 @@ o número de nós é diminuido.
 ##### Para agrupar os objetos
 
 Selecione tudo e pressione Ctrl + G
+
+##### Para abrir a janela Align e Distribute (Alinhar e Distribuir os elementos entre si)
+
+Selecione tudo e pressione Shift + Ctrl + A
