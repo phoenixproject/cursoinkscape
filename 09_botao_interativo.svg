@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg995"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="09_botao_interativo.svg">
+  <defs
+     id="defs989">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1832">
+      <stop
+         style="stop-color:#33ba33;stop-opacity:1;"
+         offset="0"
+         id="stop1828" />
+      <stop
+         style="stop-color:#33ba33;stop-opacity:0;"
+         offset="1"
+         id="stop1830" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1832"
+       id="linearGradient1834"
+       x1="-27.97024"
+       y1="101.20833"
+       x2="-163.28572"
+       y2="101.20834"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="57.181552"
+     inkscape:cy="921.0972"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata992">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.30900556"
+       id="rect1790"
+       width="148.92262"
+       height="59.720242"
+       x="-165.22603"
+       y="-5.9478216"
+       ry="7.6783142" />
+    <rect
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.29087189"
+       id="rect815"
+       width="148.92262"
+       height="52.916668"
+       x="-347.41055"
+       y="-6.703774"
+       ry="6.8035698" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot817"
+       style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-357.3496,-48.459948)"><flowRegion
+         id="flowRegion819"
+         style="font-size:74.66666412px;fill:#ffffff"><rect
+           id="rect821"
+           width="500.00006"
+           height="139.99998"
+           x="85.714287"
+           y="216.8054"
+           style="font-size:74.66666412px;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara823"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">NEW GAME</flowPara></flowRoot>    <rect
+       ry="6.8035698"
+       y="70.025391"
+       x="-347.41055"
+       height="52.916668"
+       width="148.92262"
+       id="rect1748"
+       style="fill:#aa0000;fill-rule:evenodd;stroke-width:0.29087189" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-357.3496,27.13529)"
+       style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="flowRoot1756"
+       xml:space="preserve"><flowRegion
+         style="font-size:74.66666412px;fill:#ffffff"
+         id="flowRegion1752"><rect
+           style="font-size:74.66666412px;fill:#ffffff"
+           y="216.8054"
+           x="85.714287"
+           height="139.99998"
+           width="500.00006"
+           id="rect1750" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="flowPara1754">NEW GAME</flowPara></flowRoot>    <rect
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.29087189"
+       id="rect1760"
+       width="148.92262"
+       height="52.916668"
+       x="-347.41055"
+       y="146.75456"
+       ry="6.8035698" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1768"
+       style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-357.3496,104.99839)"><flowRegion
+         id="flowRegion1764"
+         style="font-size:74.66666412px;fill:#ffffff"><rect
+           id="rect1762"
+           width="500.00006"
+           height="139.99998"
+           x="85.714287"
+           y="216.8054"
+           style="font-size:74.66666412px;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara1766"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">NEW GAME</flowPara></flowRoot>    <rect
+       ry="6.8035698"
+       y="-5.9478216"
+       x="-165.22603"
+       height="52.916668"
+       width="148.92262"
+       id="rect1770"
+       style="fill:#33ba33;fill-rule:evenodd;stroke-width:0.29087189;fill-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-175.16508,-47.703996)"
+       style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;"
+       id="flowRoot1778"
+       xml:space="preserve"><flowRegion
+         style="font-size:74.66666412px;fill:#00ff00;"
+         id="flowRegion1774"><rect
+           style="font-size:74.66666412px;fill:#00ff00;"
+           y="216.8054"
+           x="85.714287"
+           height="139.99998"
+           width="500.00006"
+           id="rect1772" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#00ff00;"
+         id="flowPara1776">NEW GAME</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1798"
+       style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-175.16508,-47.976637)"><flowRegion
+         id="flowRegion1794"
+         style="font-size:74.66666412px;fill:#008000"><rect
+           id="rect1792"
+           width="500.00006"
+           height="139.99998"
+           x="85.714287"
+           y="216.8054"
+           style="font-size:74.66666412px;fill:#008000" /></flowRegion><flowPara
+         id="flowPara1796"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000">NEW GAME</flowPara></flowRoot>    <rect
+       ry="7.6783142"
+       y="64.05336"
+       x="-168.24983"
+       height="59.720242"
+       width="148.92262"
+       id="rect1800"
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.30900556" />
+    <rect
+       style="fill:url(#linearGradient1834);fill-opacity:1;fill-rule:evenodd;stroke-width:0.29087189"
+       id="rect1802"
+       width="148.92262"
+       height="52.916668"
+       x="-168.24983"
+       y="70.403366"
+       ry="6.8035698" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1810"
+       style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-178.18889,28.647194)"><flowRegion
+         id="flowRegion1806"
+         style="font-size:74.66666412px;fill:#00ff00"><rect
+           id="rect1804"
+           width="500.00006"
+           height="139.99998"
+           x="85.714287"
+           y="216.8054"
+           style="font-size:74.66666412px;fill:#00ff00" /></flowRegion><flowPara
+         id="flowPara1808"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#00ff00">NEW GAME</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-178.18889,28.374553)"
+       style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none"
+       id="flowRoot1818"
+       xml:space="preserve"><flowRegion
+         style="font-size:74.66666412px;fill:#008000"
+         id="flowRegion1814"><rect
+           style="font-size:74.66666412px;fill:#008000"
+           y="216.8054"
+           x="85.714287"
+           height="139.99998"
+           width="500.00006"
+           id="rect1812" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000"
+         id="flowPara1816">NEW GAME</flowPara></flowRoot>  </g>
+</svg>

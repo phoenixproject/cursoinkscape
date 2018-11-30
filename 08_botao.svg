@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-64.285714"
+     inkscape:cx="-178.6178"
      inkscape:cy="560"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,14 +57,14 @@
        id="rect815"
        width="148.92262"
        height="52.916664"
-       x="12.095239"
-       y="43"
+       x="-350.00595"
+       y="12.005957"
        ry="6.8035698" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot817"
        style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,2.1561905,1.2438339)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-359.945,-29.750214)"><flowRegion
          id="flowRegion819"
          style="font-size:74.66666412px;fill:#ffffff"><rect
            id="rect821"
@@ -76,14 +76,14 @@
          id="flowPara823"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">NEW GAME</flowPara></flowRoot>    <rect
        ry="6.8035698"
-       y="113.30357"
-       x="14.363096"
+       y="80.167603"
+       x="-348.93085"
        height="52.916664"
        width="148.92262"
        id="rect4529"
        style="fill:#008000;fill-rule:evenodd;stroke-width:0.29087189" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,35.166703,71.547405)"
+       transform="matrix(0.26458333,0,0,0.26458333,-327.69044,40.553357)"
        style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
        id="flowRoot4537"
        xml:space="preserve"><flowRegion
@@ -101,14 +101,14 @@
        id="rect4539"
        width="148.92262"
        height="52.916664"
-       x="17.386906"
-       y="181.33929"
+       x="-348.39328"
+       y="148.32925"
        ry="6.8035698" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4547"
        style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,17.479978,139.59277)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-346.88907,108.59872)"><flowRegion
          id="flowRegion4543"
          style="font-size:74.66666412px;fill:#ffffff"><rect
            id="rect4541"
@@ -120,14 +120,14 @@
          id="flowPara4545"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">OPTIONS</flowPara></flowRoot>    <rect
        ry="6.8035698"
-       y="247.48494"
-       x="17.916073"
+       y="216.49089"
+       x="-349.46838"
        height="52.916664"
        width="148.92262"
        id="rect4549"
        style="fill:#008000;fill-rule:evenodd;stroke-width:0.29087189" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,40.84668,203.83811)"
+       transform="matrix(0.26458333,0,0,0.26458333,-326.54618,172.84406)"
        style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
        id="flowRoot4557"
        xml:space="preserve"><flowRegion
@@ -140,5 +140,93 @@
            width="500.00006"
            id="rect4551" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-         id="flowPara4555">QUIT</flowPara></flowRoot>  </g>
+         id="flowPara4555">QUIT</flowPara></flowRoot>    <rect
+       ry="6.8035698"
+       y="14.273814"
+       x="-179.16071"
+       height="52.916664"
+       width="148.92262"
+       id="rect905"
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.29087189" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-189.09976,-27.482357)"
+       style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="flowRoot913"
+       xml:space="preserve"><flowRegion
+         style="font-size:74.66666412px;fill:#ffffff"
+         id="flowRegion909"><rect
+           style="font-size:74.66666412px;fill:#ffffff"
+           y="216.8054"
+           x="85.714287"
+           height="139.99998"
+           width="500.00006"
+           id="rect907" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="flowPara911">NEW GAME</flowPara></flowRoot>    <rect
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.29087189"
+       id="rect915"
+       width="148.92262"
+       height="52.916664"
+       x="-178.0856"
+       y="82.435463"
+       ry="6.8035698" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot923"
+       style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-189.09976,40.688948)"><flowRegion
+         id="flowRegion919"
+         style="font-size:74.66666412px;fill:#ffffff"><rect
+           id="rect917"
+           width="500.00006"
+           height="139.99998"
+           x="85.714287"
+           y="216.8054"
+           style="font-size:74.66666412px;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara921"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">LOAD</flowPara></flowRoot>    <rect
+       ry="6.8035698"
+       y="150.59711"
+       x="-177.54803"
+       height="52.916664"
+       width="148.92262"
+       id="rect925"
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.29087189" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-188.26053,108.85059)"
+       style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="flowRoot933"
+       xml:space="preserve"><flowRegion
+         style="font-size:74.66666412px;fill:#ffffff"
+         id="flowRegion929"><rect
+           style="font-size:74.66666412px;fill:#ffffff"
+           y="216.8054"
+           x="85.714287"
+           height="139.99998"
+           width="500.00006"
+           id="rect927" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="flowPara931">OPTIONS</flowPara></flowRoot>    <rect
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.29087189"
+       id="rect935"
+       width="148.92262"
+       height="52.916664"
+       x="-178.62314"
+       y="218.75874"
+       ry="6.8035698" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot943"
+       style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-188.26053,175.11192)"><flowRegion
+         id="flowRegion939"
+         style="font-size:74.66666412px;fill:#ffffff"><rect
+           id="rect937"
+           width="500.00006"
+           height="139.99998"
+           x="85.714287"
+           y="216.8054"
+           style="font-size:74.66666412px;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara941"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">QUIT</flowPara></flowRoot>  </g>
 </svg>
