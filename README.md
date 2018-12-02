@@ -71,3 +71,9 @@ E com o mouse selecione a área que contém os nós desnecessários e pressione 
 
 Selecione todos os objetos que quer alterar a cor (inclusive o objeto que será sua referência). Em seguida
 selecione a ferramenta de Conta Cotas e clique no objeto que deseja absorver essa cor.
+
+
+#### Dica 01
+
+Quando precisar trabalhar com interseção, caso tenha probremas após o procedimento, lembre-se que
+duplicar objetos que fiquem em planos diferentes pode ajudar no resultado esperado.
